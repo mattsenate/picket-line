@@ -19,7 +19,7 @@ pref("extensions.procon.profanitylist.placeholder", "[turn off profanity list fe
 pref("extensions.procon.profanitylist.words", "");
 pref("extensions.procon.misc.showMenuButton", true);
 pref("extensions.procon.misc.showStatusButton", true);
-pref("extensions.procon.subscriptions.enabled", false);
+pref("extensions.procon.subscriptions.enabled", true);
 pref("extensions.procon.subscriptions.urls", '[""]');
 pref("extensions.procon.subscriptions.blacklist.words", "{}");
 pref("extensions.procon.subscriptions.blacklist.sites", "{}");
