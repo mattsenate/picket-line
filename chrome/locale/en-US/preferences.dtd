@@ -1,4 +1,4 @@
-<!ENTITY prefwindow.title "Procon Latte Content Filter Preferences">
+<!ENTITY prefwindow.title "Picket-Line Content Filter Preferences">
 <!ENTITY donate.label "Donate!">
 <!ENTITY settings.label "Settings">
 <!ENTITY import.label "Import Settings">
@@ -6,7 +6,7 @@
 <!ENTITY restore.label "Restore Default Settings">
 
 <!ENTITY mainPane.title "General">
-<!ENTITY pass.description "It is highly recommended to set a password to protect the addon from being disabled.">
+<!ENTITY pass.description "It is highly recommended to set a password to protect this addon from being disabled.">
 <!ENTITY passset.label "Set Password">
 <!ENTITY passremove.label "Remove Password">
 <!ENTITY contentfilter.label "Content Filter">
@@ -14,8 +14,8 @@
 <!ENTITY blocksites.label "Block Sites">
 <!ENTITY blockwords.label "Block Words">
 <!ENTITY whitelist.label "Enable Whitelist">
-<!ENTITY profanityfilter.label "Profanity Filter">
-<!ENTITY profanitylist.label "Enable Profanity List">
+<!ENTITY profanityfilter.label "Keyword Filter">
+<!ENTITY profanitylist.label "Enable Keyword Filter List">
 <!ENTITY subscriptions.label "List Subscriptions">
 <!ENTITY subscriptionslist.label "Enable Subscriptions">
 <!ENTITY misc.label "Miscellaneous">
@@ -35,8 +35,8 @@
 
 <!ENTITY whitelistPane.title "Whitelist">
 
-<!ENTITY profanitylistPane.title "Profanity List">
-<!ENTITY placeholder.description "The following keyword is used as a placeholder for censored words.">
+<!ENTITY profanitylistPane.title "Keyword Filter List">
+<!ENTITY placeholder.description "The following is used as a placeholder for censored words.">
 
 <!ENTITY subscriptionsPane.title "Subscriptions">
 <!ENTITY updatesubscriptions.label "Update Subscriptions">
