@@ -18,11 +18,11 @@ const common =
 
         if (Prefs.getBoolPref("blacklist.enabled") || Prefs.getBoolPref("profanitylist.enabled"))
         {
-            browserWindow.document.getElementById("procon-status-img").setAttribute("src", "chrome://procon/skin/images/security_small.png");
+            browserWindow.document.getElementById("procon-status-img").setAttribute("src", "chrome://procon/skin/images/noun_project_482_red-small.png");
         }
         else
         {
-            browserWindow.document.getElementById("procon-status-img").setAttribute("src", "chrome://procon/skin/images/security_small_gray.png");
+            browserWindow.document.getElementById("procon-status-img").setAttribute("src", "chrome://procon/skin/images/noun_project_482_gray.png");
         }
 
         browserWindow.document.getElementById("procon-status").hidden = !Prefs.getBoolPref("misc.showStatusButton");

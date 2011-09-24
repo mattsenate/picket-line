@@ -74,7 +74,7 @@
             tooltip="&procon.label;&#8230;">
             <image
                 id="procon-status-img"
-                src="chrome://procon/skin/images/security_small.png"
+                src="chrome://procon/skin/images/noun_project_482_red-small.png"
                 style="width:16px;height:16px;margin-left:0px;margin-right:2px;"/>
         </statusbarpanel>
     </statusbar>

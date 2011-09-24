@@ -16,10 +16,10 @@ caption
 /* toolbar button */
 #procon-toolbar-button
 {
-    list-style-image: url("chrome://procon/skin/images/security_medium.png");
+    list-style-image: url("chrome://procon/skin/images/noun_project_482_red-medium.png");
 }
 
 toolbar[iconsize="small"] #procon-toolbar-button
 {
-    list-style-image: url("chrome://procon/skin/images/security_small.png");
+    list-style-image: url("chrome://procon/skin/images/noun_project_482_red-small.png");
 }
